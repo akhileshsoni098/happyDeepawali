@@ -44,20 +44,20 @@ h1 {
   animation: spanimation 1s ease-in-out infinite;
 }
 
-.diwali_diyasLeft, .diwali_diyasRight {
+/* .diwali_diyasLeft, .diwali_diyasRight {
   width: 10vw;
   height: 10vw;
   object-fit: contain;
   margin-top: 1em;
-}
+} */
 
-.diwali_diyasLeft {
+/* .diwali_diyasLeft {
   float: left;
-}
+} */
 
-.diwali_diyasRight {
+/* .diwali_diyasRight {
   float: right;
-}
+} */
 
 h2 {
   font-size: 1.5em;
@@ -132,11 +132,13 @@ h2 {
       width: 12vw;
       height: 12vw;
   }
-
+/* 
   .diwali_diyasLeft, .diwali_diyasRight {
-      width: 8vw;
-      height: 8vw;
-  }
+   
+      width: 4vw;
+      height: 4vw;
+      
+  } */
 
   .diyas {
       width: 25vw;
